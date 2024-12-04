@@ -1,0 +1,17 @@
+cookie:
+  expiry_days: 100
+  key: thisisauthenticatorkey
+  name: auth
+credentials:
+  usernames:
+    birdman:
+      email: email@email.com
+      first_name: Rishi 
+      last_name: Gupta
+      logged_in: false
+      password: Password
+      password_hint: pfft
+      roles: null
+creatine:
+    amount: 0
+    date_refreshed: 12/2/2024
