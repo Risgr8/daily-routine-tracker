@@ -3,6 +3,7 @@ cookie:
   key: thisisauthenticatorkey
   name: auth
 creatine:
+  added_today: 0
   amount: 20
   date_refreshed: 2024-12-04
 credentials:
